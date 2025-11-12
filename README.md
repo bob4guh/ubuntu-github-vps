@@ -1,5 +1,6 @@
 # ubuntu free vps
 ### THE SH SCRIPTS ARE MADE BY CATGTP CUZ IM LAZY TO CODE THEM FOR A FREE GITHUB VPS
+literally why would i code that
  ### SNAP DOES NOT WORK AT ALL
 so first u gotta press the <img width="59" height="20" alt="code" src="https://github.com/user-attachments/assets/95641465-da0a-4502-933b-ee173b067f6c" />
  button
