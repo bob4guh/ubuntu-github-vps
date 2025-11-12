@@ -1,0 +1,6 @@
+{
+  "name": "Ubuntu Codespace",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+  "features": {},
+  "postCreateCommand": "apt update && apt install -y xfce4 xfce4-goodies dbus-x11 x11-xserver-utils wget unzip python3 python3-pip"
+}
